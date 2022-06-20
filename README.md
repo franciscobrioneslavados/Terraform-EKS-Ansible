@@ -1,3 +1,5 @@
+https://medium.com/geekculture/how-to-deploy-the-kubernetes-application-to-aws-eks-using-terraform-and-ansible-7679a3a207a8
+
 # How to deploy the Kubernetes application to AWS EKS using Terraform and Ansible?
 
 ### What is AWS EKS?
